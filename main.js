@@ -23,7 +23,7 @@ if (myPrice >= 50) {
 
 /*
 ( = ) Assignment Operator
-( == )
+( == ) Comparison Oåerator
 ( === )
 */
 /*
@@ -74,9 +74,23 @@ if (myPrice = 600) {
     alert("Bad");
 }
 */
+/*
 var myPrice = 50;
 
 if (myPrice == 50) {
+
+    alert("Good");
+
+} else {
+
+    alert("Bad");
+}
+*/
+
+var myPrice = 50,
+    Abdallah = "";
+
+if (Abdallah == 50) {
 
     alert("Good");
 
