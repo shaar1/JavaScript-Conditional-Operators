@@ -62,10 +62,21 @@ if (myPrice = 60) {
     alert("Bad");
 }
 */
-
+/* 
 var myPrice = 50;
 
 if (myPrice = 600) {
+
+    alert("Good");
+
+} else {
+
+    alert("Bad");
+}
+*/
+var myPrice = 50;
+
+if (myPrice == 50) {
 
     alert("Good");
 
